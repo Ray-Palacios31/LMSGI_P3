@@ -1,0 +1,71 @@
+h1 {
+    color:rgb(24, 13, 239);
+    text-align:center;
+}
+
+.text {
+    background-color:rgba(255,0,0,0.3); 
+}
+
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+}
+
+caption {
+    color:rgb(255, 213, 1);
+    font-size:25px;
+}
+
+td, th {
+    border: 1px solid #111111;
+    text-align:center;
+    padding: 2px;
+}
+
+td {
+    text-align:left;
+}
+
+th {
+    background: #84fe84;
+    width: 100px;
+}
+
+.LMSGI {
+    background-color:aqua;
+}
+
+.BD {
+    background-color:coral;
+}
+
+.PED {
+    background-color:yellow;
+}
+
+.SI {
+    background-color:yellowgreen;
+}
+
+.TUT {
+    background-color:rgba(255,0,0,0.3);
+}
+
+.AN {
+    background-color:wheat;
+}
+
+.DIW {
+    background-color:darkviolet;
+}
+
+.IPOI {
+    background-color:hotpink;
+}
+
+.center {
+    margin-left: auto;
+    margin-right: auto;
+}
+
